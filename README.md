@@ -27,3 +27,6 @@ You will need a modern web browser to run this application.
 1. Clone the repository:
    ```bash
    git clone https://github.com/codewithfranciss/Dictionary-app.git
+
+
+   ![Dictinary App](screenshot.png)
