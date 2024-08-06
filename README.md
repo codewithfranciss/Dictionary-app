@@ -29,4 +29,4 @@ You will need a modern web browser to run this application.
    git clone https://github.com/codewithfranciss/Dictionary-app.git
 
 
-   [Dictinary App](screenshot.png)
+   [Dictinary App](image/screenshot.png)
